@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="-600 -400 682.66667 682.66667"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="International_Flag_of_Planet_Earth.svg">
+  <metadata
+     id="metadata64">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     id="namedview62"
+     showgrid="false"
+     inkscape:zoom="1.3016667"
+     inkscape:cx="355.12164"
+     inkscape:cy="299.99999"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <circle
+       id="rb"
+       r="145.6633"
+       cx="0"
+       cy="0"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="145.6633"
+       sodipodi:ry="145.6633"
+       style="fill:none;stroke:#013ba6;stroke-width:39.03036118" />
+    <circle
+       id="rw"
+       r="145.6633"
+       cx="0"
+       cy="0"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="145.6633"
+       sodipodi:ry="145.6633"
+       style="fill:none;stroke:#ffffff;stroke-width:17.34682655" />
+    <clipPath
+       id="o">
+      <path
+         d="m 0,-200 v 400 h 200 v -400 z m -200,0 v 400 h 100 v -400 z"
+         id="path9"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="h">
+      <path
+         d="M -200,-200 H 200 V 50 h -400 z"
+         id="path12"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="i1">
+      <path
+         d="M 0,0 -200,-150 V 150 z"
+         id="path15"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="i2">
+      <path
+         d="M 0,0 -200,-200 V 200 z"
+         id="path18"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="l1">
+      <path
+         d="M 0,0 -50,-200 H -200 V 150 z"
+         id="path21"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="l2">
+      <path
+         d="M 0,0 V -200 H -200 V 200 z"
+         id="path24"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <rect
+     width="682.66669"
+     height="682.66669"
+     x="-600"
+     y="-400.00003"
+     id="rect26"
+     style="fill:#013ba6" />
+  <g
+     id="g3041"
+     transform="matrix(0.83523325,0,0,0.83523325,-258.66667,39.334036)">
+    <g
+       transform="translate(145.66329,-117.33333)"
+       id="ro">
+      <use
+         height="800"
+         width="1200"
+         y="0"
+         x="0"
+         id="use29"
+         clip-path="url(#o)"
+         xlink:href="#rb" />
+      <use
+         height="800"
+         width="1200"
+         y="0"
+         x="0"
+         id="use31"
+         xlink:href="#rw" />
+    </g>
+    <use
+       height="800"
+       width="1200"
+       y="0"
+       x="0"
+       id="use33"
+       transform="matrix(0.5,-0.8660254,0.8660254,0.5,101.61365,-58.666667)"
+       xlink:href="#ro" />
+    <use
+       height="800"
+       width="1200"
+       y="0"
+       x="0"
+       id="use35"
+       transform="matrix(0.5,0.8660254,-0.8660254,0.5,-101.61365,-58.666667)"
+       xlink:href="#ro" />
+    <use
+       height="800"
+       width="1200"
+       y="0"
+       x="0"
+       id="use37"
+       transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,-101.61365,-176)"
+       xlink:href="#ro" />
+    <use
+       height="800"
+       width="1200"
+       y="0"
+       x="0"
+       id="use39"
+       transform="matrix(-1,0,0,-1,0,-234.66666)"
+       xlink:href="#ro" />
+    <use
+       height="800"
+       width="1200"
+       y="0"
+       x="0"
+       id="use41"
+       transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,101.61365,-176)"
+       xlink:href="#ro" />
+    <g
+       transform="translate(0,-117.33333)"
+       id="g43">
+      <use
+         height="800"
+         width="1200"
+         y="0"
+         x="0"
+         id="use45"
+         clip-path="url(#h)"
+         xlink:href="#rb" />
+      <use
+         height="800"
+         width="1200"
+         y="0"
+         x="0"
+         id="use47"
+         xlink:href="#rw" />
+    </g>
+    <g
+       id="g49"
+       transform="translate(145.66329,-117.33333)">
+      <use
+         height="800"
+         width="1200"
+         y="0"
+         x="0"
+         id="use51"
+         clip-path="url(#i1)"
+         xlink:href="#rb" />
+      <use
+         height="800"
+         width="1200"
+         y="0"
+         x="0"
+         id="use53"
+         clip-path="url(#i2)"
+         xlink:href="#rw" />
+    </g>
+    <g
+       transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,-72.831646,8.8147761)"
+       id="rl">
+      <use
+         height="800"
+         width="1200"
+         y="0"
+         x="0"
+         id="use56"
+         clip-path="url(#l1)"
+         xlink:href="#rb" />
+      <use
+         height="800"
+         width="1200"
+         y="0"
+         x="0"
+         id="use58"
+         clip-path="url(#l2)"
+         xlink:href="#rw" />
+    </g>
+    <use
+       height="800"
+       width="1200"
+       y="0"
+       x="0"
+       id="use60"
+       transform="matrix(-1,0,0,1,0,-3.90625e-6)"
+       xlink:href="#rl" />
+  </g>
+</svg>
